@@ -99,7 +99,7 @@ input.req{
     -ms-transition: 0.6s ease;
     -o-transition: 0.6s ease;
 }
-#Learn:honver{
+#Learn:hover{
     background-color: white;
     color: transparent;
     border: 1px solid rgb(226, 43, 134);
