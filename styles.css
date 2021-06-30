@@ -101,6 +101,6 @@ input.req{
 }
 #Learn:hover{
     background-color: white;
-    color: transparent;
+    color: rgb(226, 43, 134);
     border: 1px solid rgb(226, 43, 134);
 }
