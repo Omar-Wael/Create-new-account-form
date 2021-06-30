@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     background-color: white;
     margin: 0px;
@@ -24,6 +27,7 @@ input.req{
     border: solid white;
     outline: none;
     box-shadow: 0px 30px 30px rgb(185, 184, 184), 0px -3px 10px rgb(185, 184, 184);
+    padding: 0 20px;
 }
 
 .container{
